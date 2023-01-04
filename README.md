@@ -3,7 +3,7 @@
 ---
 
 <p>
-Our project aims to provide a comprehensive and accessible introduction to Python for beginners. Our lessons will cover all of the essential concepts and skills needed to get started with programming in Python, including:
+As a self-taught programmer, I developed this project to provide a comprehensive and accessible introduction to Python for beginners. These lessons will cover the basic essential concepts and skills needed to get started with programming in Python, including:
 
 * Basic syntax and data types
 * Control structures and loops
