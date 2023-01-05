@@ -3,7 +3,7 @@
 ---
 
 <p>
-As a self-taught programmer, I developed this project to provide a comprehensive and accessible introduction to Python for beginners. These lessons will cover the basic essential concepts and skills needed to get started with programming in Python, including:
+As a self-taught programmer myself, I developed this project to provide a comprehensive and accessible introduction to Python for beginners. These lessons will cover the basic essential concepts and skills needed to get started with programming in Python, including:
 
 * Basic syntax and data types
 * Control structures and loops
@@ -12,7 +12,7 @@ As a self-taught programmer, I developed this project to provide a comprehensive
 * Object-oriented programming
 * Debugging and error handling
 
-The lessons are provided as a combination of text notes and independent exercises, allowing learners to practice and apply their knowledge as they progress through the course. Our goal is to provide a clear and engaging learning experience that will help students build a strong foundation in Python and feel confident in their ability to use the language.
+The lessons are provided as a combination of text notes and independent exercises, allowing learners to practice and apply their knowledge as they progress through the course. My goal is to provide a clear and engaging learning experience that will help students build a strong foundation in Python and feel confident in their ability to use the language. If you have any concerns with the topic content, or if you are interested in contributing to the material, feel free to reach out to me at [chino.franco@gmail.com](mailto:chino.franco@gmail.com) anytime.
 <br> 
 </p>
 
