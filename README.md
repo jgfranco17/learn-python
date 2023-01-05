@@ -67,40 +67,28 @@ Finally, Python is constantly evolving and improving. It has a large and active 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Setting up and installing Python on a local device is a straightforward process that involves downloading the Python installer and running it on your computer. There are a few different ways to install Python, depending on your needs and operating system. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Download the Python installer from the [official Python website](https://www.python.org/downloads/). You can choose the latest stable release of Python or a specific version that meets your needs.
 
-```
-Give examples
-```
+### Installing Python 
 
-### Installing
+Run the Python installer and follow the prompts to install Python on your local device. Make sure to select the `Add Python to PATH` option during the installation process to ensure that Python is added to your system path. This will allow you to run Python from any directory on your device.
 
-A step by step series of examples that tell you how to get a development env running.
+Test your Python installation by opening a command prompt or terminal window and running the command `python`. This should launch the Python interpreter and display a prompt where you can enter Python commands. You can also check which version of Python is installed on your device with:
 
-Say what the step will be
-
-```
-Give the example
+```bash
+python --version
 ```
 
-And repeat
+**(Optional)** Consider installing a package manager for Python, such as pip, to make it easier to install and manage third-party Python packages. To install pip, you can run the following command:
 
+```bash
+python -m pip install --upgrade pip.
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## ✍️ Authors <a name = "authors"></a>
 
 - [Chino Franco](https://github.com/jgfranco17)
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
