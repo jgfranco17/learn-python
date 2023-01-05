@@ -2,7 +2,7 @@
 
 In Python, a function is a block of code that performs a specific task and can be called from other parts of your program. Functions are a useful way to organize and reuse code, and can help to make your programs more modular and easier to understand and maintain.
 
-To define a function in Python, you use the `def` keyword followed by the function name and a set of parentheses that may contain parameters. The code that makes up the function is indented under the function definition. Here is an example of a simple function that takes two arguments and returns their sum:
+To define a function in Python, you use the `def` keyword followed by the function name and a set of parentheses that may contain parameters. The code that makes up the function is indented under the function definition. The final value that the function outputs is called a "return value", and is marked by the `return` keyword. Here is an example of a simple function that takes two arguments and returns their sum:
 
 ```python
 def greet():
@@ -16,14 +16,14 @@ message = greet()
 print(message)  # Output: "Hello, World!"
 ```
 
-Functions can also accept parameters, which are values that are passed to the function when it is called. These parameters are used to customize the behavior of the function or to perform calculations with different values. Here is an example of a function that takes two parameters and returns their sum:
+Functions can also accept parameters, which are values that are passed to the function when it is called. These parameters are used to customize the behavior of the function or to perform calculations with different values. Here is an example of a function that takes two parameters and returns their product:
 
 ```python
-def add(x, y):
-    return x + y
+def mult(x, y):
+    return x * y
 
-result = add(3, 4)
-print(result)  # Output: 7
+result = mult(3, 4)
+print(result)  # Output: 12
 ```
 Functions can also return multiple values by separating them with commas. These values are returned as a tuple. Here is an example of a function that returns multiple values:
 
