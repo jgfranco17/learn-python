@@ -1,3 +1,8 @@
+---
+title: 'Learn Python - Chapter 1'
+description: Fundamentals of Python Programming
+---
+
 # Introduction to Programming Concepts
 
 ---
