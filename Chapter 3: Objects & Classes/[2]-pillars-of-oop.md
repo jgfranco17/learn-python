@@ -41,7 +41,7 @@ class Animal:
 
 class Dog(Animal):
     def speak(self):
-        return "Woof!"
+        print("Woof"!)
 
 ```
 
@@ -61,11 +61,11 @@ class Animal:
 
 class Dog(Animal):
     def speak(self):
-        return "Woof!"
+        print("Woof"!)
 
 class Cat(Animal):
     def speak(self):
-        return "Meow!"
+        print("Meow"!)
 ```
 
 In the above example, we have defined a `Dog` class and a `Cat` class that inherit from the `Animal` class. Both `Dog` and `Cat` classes have their own implementation of the `speak()` method.
